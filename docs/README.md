@@ -1,4 +1,4 @@
-# Alpha Project: Academic Research Implementation Engine
+# Alpha 
 
 ## Overview
 
